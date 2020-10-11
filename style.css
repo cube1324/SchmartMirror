@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Baloo Chettan 2', cursive;
+	cursor:none;
+}
+
+#date {
+	font-size:60px;
+}
+
+#time {
+	font-size:170px;
+	margin-bottom: 100px;
+}
+
+.text{
+	margin:0px;
+	padding: 0px;
+	line-height: 1em;
+}
+
+.container{
+	float: left;
+}
+
+.temp{
+	font-size: 60px;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.wetter_time{
+	margin: 0;
+	font-size: 40px;
+}
+
+.wetter_desc{
+	margin: 0;
+	font-size: 20px;
+	height: 40px;
+}
+
+.wetter{
+	margin-left: 90px;
+}
